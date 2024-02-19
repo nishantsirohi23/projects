@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+}
+h1{
+    color:red;
+    text-align: center;
+    border: 2px solid pink;
+    border-radius: 20px;
+    border-top-style: dashed;
+}
+h2{
+    color:blueviolet;
+    text-align: left;
+}
+p{
+    color:black;
+    text-align: right;
+}
+#kabootar{
+    color:blue;
+    text-align: center;
+}
+/*this is just a css comment*/
+/*this 
+is a multiline css comment*/
+p.intro{
+    color:brown;
+    background-color: yellow;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;;
+}
+div.first {
+    background-image: url(image.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px;
+    padding: 20px;
+}
+div.first h3{
+    color: aqua;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 3px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+div.first p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+
+}
